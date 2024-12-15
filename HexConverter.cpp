@@ -1,3 +1,12 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <stdexcept>
+#include <bitset>
+#include <cmath>
+#include <sstream>
+
 class HexConverter 
 {
 private:
